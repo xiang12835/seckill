@@ -11,7 +11,7 @@
   <modules>
     <module>seckill-support</module>
     <module>seckill-web</module>
-<!--    <module>seckill-vertx-web</module>-->
+    <module>seckill-vertx-web</module>
   </modules>
 
   <packaging>pom</packaging>
